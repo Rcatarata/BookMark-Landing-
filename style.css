@@ -41,7 +41,7 @@ html {
     padding: 20px;
     background: rgba(182, 178, 178, 0.4);
     border-radius: 30px;
-    width: 100px;
+    width: 250px;
     margin: 10px ;
     text-align: center;
 }
@@ -177,5 +177,8 @@ button:focus {
     .container {
         flex-direction: column;
 
+    }
+    .item{
+        width: 300px;
     }
 }
